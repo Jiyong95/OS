@@ -47,3 +47,5 @@
 #### - [✅] <a href="https://github.com/Jiyong95/OS/blob/main/세마포.md"> 세마포 - 세마포를 사용한 프로세스 동기화</a>
 
 </br>
+
+#### - [✅] <a href="https://github.com/Jiyong95/OS/blob/main/생산자소비자문제.md"> 생산자-소비자 문제 - 전통적 동기화 문제, 생산자-소비자 문제</a>
