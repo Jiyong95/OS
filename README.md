@@ -49,3 +49,7 @@
 </br>
 
 #### - [✅] <a href="https://github.com/Jiyong95/OS/blob/main/md/생산자소비자문제.md"> 생산자-소비자 문제 - 전통적 동기화 문제, 생산자-소비자 문제</a>
+
+</br>
+
+#### - [✅] <a href="https://github.com/Jiyong95/OS/blob/main/md/전통적동기화문제.md"> 전통적 동기화 문제 - 읽기-쓰기 문제, 식사하는 철학자 문제</a>
